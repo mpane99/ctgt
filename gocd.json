@@ -7,7 +7,7 @@
       "parameters": [
         {
           "name": "SERVICE_NAME",
-          "value": "dmc-comments"
+          "value": "ctgt"
         },
         {
            "name": "BRANCH_NAME",
@@ -15,7 +15,7 @@
         },
         {
            "name": "NETCORE_PROJECT_NAME",
-           "value": "Deluxe.MediaCloud.Comments"
+           "value": "Deluxe.MediaCloud.ctgt"
         }
       ]
     }
